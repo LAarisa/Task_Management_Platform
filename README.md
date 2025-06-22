@@ -12,7 +12,7 @@ Includes role-based access control, user and task management, and powerful filte
 - ✅ Secure password storage with BCrypt
 - ✅ JWT-based login and authorization
 - ✅ LINQ-powered task filtering & searching
-- ✅ Full CRUD for Tasks and Users (Admin-only)
+- ✅ Full CRUD for Tasks and Users
 - ✅ Swagger UI for API testing
 - ✅ EF Core with Migrations and SQL Server
 - ✅ DTOs to separate data contracts
