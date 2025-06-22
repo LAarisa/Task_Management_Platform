@@ -8,7 +8,7 @@ Includes role-based access control, user and task management, and powerful filte
 ## 🚀 Features
 
 - ✅ Multi-tenant architecture (isolated data per tenant)
-- ✅ Role-based authentication (Admin / User)
+- ✅ Role-based authentication (Admin / User / Manager)
 - ✅ Secure password storage with BCrypt
 - ✅ JWT-based login and authorization
 - ✅ LINQ-powered task filtering & searching
