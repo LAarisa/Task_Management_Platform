@@ -46,3 +46,18 @@ Includes role-based access control, user and task management, and powerful filte
 ```bash
 git clone https://github.com/yourusername/task-management-platform.git
 cd task-management-platform
+
+### 🖼 Images
+- Log in:
+![image](https://github.com/user-attachments/assets/8e47e892-b399-427f-a24c-4c44d4396788)
+![image](https://github.com/user-attachments/assets/99fadb13-09a6-42e3-8c45-4b747de5e764)
+- Get:
+![image](https://github.com/user-attachments/assets/f55d5ac6-87b0-4fe3-8e91-505d175b5bd4)
+![image](https://github.com/user-attachments/assets/a1101912-4550-4e9b-9b95-9180ccf64ed3)
+- Post:
+![image](https://github.com/user-attachments/assets/5335af5d-dfeb-4faa-9072-e66e72b95cb5)
+![image](https://github.com/user-attachments/assets/ab6ded3d-9d6a-47b4-9d7f-9e8344010386)
+
+
+
+
